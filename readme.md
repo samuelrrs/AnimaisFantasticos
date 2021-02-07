@@ -52,7 +52,7 @@ Na pasta do projeto e abra o arquivo index.html
 
 <p>
 
-EM BREVE > [Animais Fantasticos]('')
+Acesso o site |Ainda em construção| > [Animais Fantasticos]('https://animaisfantasticos-samuelrrs.netlify.app/')
 
 <p>
 
