@@ -52,7 +52,7 @@ Na pasta do projeto e abra o arquivo index.html
 
 <p>
 
-Clique aqui > AINDA EM CONSTRUÇÃO [Animais Fantasticos](https://animaisfantasticos-samuelrrs.netlify.app/)
+Clique aqui > [Animais Fantasticos](https://animaisfantasticos-samuelrrs.netlify.app/) - AINDA EM CONSTRUÇÃO
 
 <p>
 
