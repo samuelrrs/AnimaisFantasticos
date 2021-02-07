@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre o projeto
 
-Desenvolvido durante o curso da Origamid focado em todo conteúdo de JS e ES6+. O curso vai do básico ao avançado, ao demonstrar tudo de mais usado nessa linguagem. Todas as boas práticas e princais conceitos.
+Desenvolvido durante o curso da Origamid focado em todo conteúdo de JS e ES6+. O curso vai do básico ao avançado, ao demonstrar tudo de mais usado nessa linguagem. Todas as boas práticas e principais conceitos.
 
 ## 🚀 Começando
 
