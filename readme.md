@@ -28,7 +28,7 @@ Clone ou baixe o ZIP do projeto
 ### Para executar :
 
 ```
-Na pasta do projeto e abra o arquivo index.html
+Entre pasta do projeto e abra o arquivo index.html
 ```
 
 ## <h3> 🖼️ Layout</h3>
@@ -44,9 +44,9 @@ Na pasta do projeto e abra o arquivo index.html
 
 ## 🛠️ Construído com
 
-- [React JS](https://pt-br.reactjs.org/) - O framework web usado
-- [Yarn](https://yarnpkg.com/) - Gerente de Dependência
-- [Material UI](https://material-ui.com/pt/) - Biblioteca de design
+- [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://www.w3schools.com/css/)
 
 ## 🛠 💻 Para acessar o projeto funcional :
 
@@ -55,8 +55,6 @@ Na pasta do projeto e abra o arquivo index.html
 Clique aqui > [Animais Fantasticos](https://animaisfantasticos-samuelrrs.netlify.app/) - AINDA EM CONSTRUÇÃO
 
 <p>
-
-(Devido ao próprio heroku, a primeira vez que você clicar no link ele pode não funcionar, aguarde alguns minutos e recarregue a página.)
 
 ## ✒️ Autores
 
