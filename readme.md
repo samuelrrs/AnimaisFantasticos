@@ -31,6 +31,19 @@ Clone ou baixe o ZIP do projeto
 Entre pasta do projeto e abra o arquivo index.html
 ```
 
+## 🛠 💻 Para acessar o projeto funcional :
+
+<br>
+
+
+<p>
+
+Clique aqui > [Animais Fantasticos](https://animaisfantasticos-samuelrrs.netlify.app/) - AINDA EM CONSTRUÇÃO
+
+<br>
+
+<p>
+
 ## <h3> 🖼️ Layout</h3>
 
 <br>
@@ -48,13 +61,7 @@ Entre pasta do projeto e abra o arquivo index.html
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/css/)
 
-## 🛠 💻 Para acessar o projeto funcional :
 
-<p>
-
-Clique aqui > [Animais Fantasticos](https://animaisfantasticos-samuelrrs.netlify.app/) - AINDA EM CONSTRUÇÃO
-
-<p>
 
 ## ✒️ Autores
 
